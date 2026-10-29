@@ -1,0 +1,25 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Power BI: arquivos temporários e cache local
+*.pbix.tmp
+*.pbi/
+.pbi/
+**/.pbi/
+~$*
+
+# Dados brutos pesados (mantenha só amostras pequenas em dados/)
+**/dados/raw/
+**/dados/*.zip
+**/dados/*_completo.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Editores
+.vscode/
+.idea/
