@@ -47,4 +47,4 @@ Cada pasta de fase contém:
 
 ## Autor
 
-Seu nome, [LinkedIn](https://www.linkedin.com/) · Formado em Análise e Desenvolvimento de Sistemas.
+João Victor, [LinkedIn](https://www.linkedin.com/) · Formado em Análise e Desenvolvimento de Sistemas.
